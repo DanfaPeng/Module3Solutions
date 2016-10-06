@@ -1,0 +1,43 @@
+ul li {
+	font-size: 1.5em;
+	text-align: center;
+	margin-bottom: 0px;
+	color: #000;
+	background-color: #9091D4;
+	border: 1px solid maroon;
+}
+
+.navbar {
+	font-size: 1.4em;
+}
+
+.navbar {
+	background-color: #14F723;
+}
+
+ {
+	background-color: red;
+}
+
+.navbar-brand {
+	font-size: 1.3em;
+}
+
+
+#menu {
+   background-color: #90D4A8;
+   height: 1000px;
+   margin: 10px;
+   padding: 5px;
+}
+
+#menu h3 {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+@media (max-width: 767px)  {
+	#menu {
+		margin: 20px;
+	}
+}
